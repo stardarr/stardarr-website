@@ -21,8 +21,8 @@ const FeatureList = [
     description: (
       <>
         Effortlessly orchestrate your own <b>Plex</b> Media Server and
-        seamlessly integrate with <b>*darr</b> services. Utilize Unmanic for
-        smart management of your media library.
+        seamlessly integrate with <b>*darr</b> services. Utilize <b>Unmanic </b>
+        for smart management of your media library.
       </>
     ),
   },
