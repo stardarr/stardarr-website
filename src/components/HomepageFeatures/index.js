@@ -16,13 +16,14 @@ const FeatureList = [
     ),
   },
   {
-    title: "Instant Plex Media Server",
+    title: "Media Server & Automation",
     Svg: require("@site/static/img/pl.svg").default,
     description: (
       <>
         Effortlessly orchestrate your own <b>Plex</b> Media Server and
-        seamlessly integrate with <b>*darr</b> services. Utilize <b>Unmanic </b>
-        for smart management of your media library.
+        seamlessly integrate with <b>*darr</b> services. Manage your media with{" "}
+        <b>Unmanic </b>and control your smart devices with <b>Home Assistant</b>
+        .
       </>
     ),
   },
@@ -33,7 +34,7 @@ const FeatureList = [
       <>
         Enjoy secure file storage, easy sharing, and efficient team
         collaboration, all in one intuitive platform with <b>Nextcloud</b>, or
-        simply share videos with <b>Fireshare</b>.
+        simply share your highlight clips with <b>Fireshare</b>.
       </>
     ),
   },
