@@ -13,3 +13,11 @@ Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-In
 ### Docker
 
 Follow the instructions [here](https://docs.docker.com/engine/install/) to install Docker
+
+#### [Linux/WSL Only] - Don't run Docker as root!
+
+Add your user to the docker group.
+
+```
+sudo usermod -aG docker <your-username>
+```
