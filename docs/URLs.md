@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Service URLs
+# Service URL List
 
 | Service        | URL                  | Proxied |
 | -------------- | -------------------- | ------- |
