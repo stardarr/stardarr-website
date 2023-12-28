@@ -66,3 +66,7 @@ docker compose up -d
 ```
 
 See the [Services section](/docs/category/services) on the sidebar for more detailed service-specific documentation.
+
+## Step 6 - Configure the Services
+
+Most services will have a URL you can visit in order to configure it further. You can find the specific routes for each service in the [Service URL List](/docs/URLs)

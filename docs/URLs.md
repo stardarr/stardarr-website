@@ -10,11 +10,11 @@ sidebar_position: 10
 | Overseerr      | overseerr.domain.com | Yes     |
 | Nextcloud      | cloud.domain.com     | Yes     |
 | Fireshare      | videos.domain.com    | Yes     |
-| Home Assistant | localhost:8123       | no      |
-| NZBGet         | localhost:6789       | no      |
-| Unmanic        | localhost:8888       | no      |
-| Homarr         | localhost:7575       | no      |
-| Sonarr         | localhost:8989       | no      |
-| Radarr         | localhost:7878       | no      |
-| Readarr        | localhost:8787       | no      |
-| Bazarr         | localhost:6767       | no      |
+| Home Assistant | 0.0.0.0:8123         | no      |
+| SABnzbd        | 0.0.0.0:8088         | no      |
+| Unmanic        | 0.0.0.0:8888         | no      |
+| Homarr         | 0.0.0.0:7575         | no      |
+| Sonarr         | 0.0.0.0:8989         | no      |
+| Radarr         | 0.0.0.0:7878         | no      |
+| Readarr        | 0.0.0.0:8787         | no      |
+| Bazarr         | 0.0.0.0:6767         | no      |
