@@ -1,0 +1,8 @@
+{
+  "label": "Overseerr",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "A request management and media discovery tool built to work with your existing Plex ecosystem."
+  }
+}

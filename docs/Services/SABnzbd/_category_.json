@@ -1,0 +1,8 @@
+{
+  "label": "SABnzbd",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Free and easy binary newsreader"
+  }
+}

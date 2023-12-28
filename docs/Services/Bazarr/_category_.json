@@ -1,0 +1,8 @@
+{
+  "label": "Bazarr",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "A companion application to Sonarr and Radarr"
+  }
+}

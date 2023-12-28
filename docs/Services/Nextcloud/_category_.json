@@ -1,0 +1,8 @@
+{
+  "label": "Nextcloud",
+  "position": 25,
+  "link": {
+    "type": "generated-index",
+    "description": "Remote collaboration made easy"
+  }
+}
