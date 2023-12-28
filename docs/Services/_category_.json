@@ -1,6 +1,7 @@
 {
   "label": "Services",
   "position": 8,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "Configuration instructions for each service"

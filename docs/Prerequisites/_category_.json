@@ -1,6 +1,7 @@
 {
   "label": "Prerequisites",
   "position": 2,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "Before you install Stardarr"
