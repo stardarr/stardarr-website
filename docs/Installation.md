@@ -49,6 +49,10 @@ docker compose up -d
 
 After CloudflareDDNS and Traefik are running, you can start the rest of the services in any order you'd like.
 
+The Services list in the sidebar is loosely ordered by importance and dependencies. It is recommended that you work you way down the list configuring each service one at a time. This will help to ensure that you have the right services running when they start to depend on each other for their configuration settings.
+
+E.G. Sonarr & Radarr need a newsreader, so SABnzbd should be set up first.
+
 For each service:
 
 - Ensure to create and modify the `.env` file.
@@ -60,3 +64,5 @@ cp .env.example .env
 nano .env # Customize your configuration
 docker compose up -d
 ```
+
+See the [Services section](http://localhost:3000/docs/category/services) on the sidebar for more detailed service-specific documentation.
