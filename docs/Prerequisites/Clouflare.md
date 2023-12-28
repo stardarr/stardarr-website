@@ -20,6 +20,12 @@ Cloudflare will provide two nameservers for you to take back to your domain regi
 
 You will need to update the nameservers on your domain name with these values.
 
+## SSL/TLS Settings
+
+Select **SSL/TLS** from the sidebar, and in the **Overview** set the mode to **Full (strict)**
+
+There is no save button, that's it.
+
 ## Generate an API Token
 
 In the top right corner, click the user icon and select **My Profile**
