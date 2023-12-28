@@ -11,3 +11,5 @@ Sabnzbd makes Usenet as simple and streamlined as possible by automating everyth
 | Homepage   | https://sabnzbd.org/                               |
 | Image      | https://hub.docker.com/r/linuxserver/sabnzbd       |
 | Image Docs | https://docs.linuxserver.io/images/docker-sabnzbd/ |
+
+##### Note: The default port for SABnzbd conflicts with Traefik's dashboard and has been changed in this repo to **8088**.

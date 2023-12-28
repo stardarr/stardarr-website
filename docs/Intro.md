@@ -20,7 +20,7 @@ You're on your own for specific configurations of each service.
 - [Nextcloud](https://nextcloud.com/)
 - [Fireshare](https://github.com/ShaneIsrael/fireshare)
 - [Home Assistant](https://www.home-assistant.io/)
-- [NZBGet](https://nzbget.net/)
+- [SABnzbd](https://sabnzbd.org/)
 - [Homarr](https://homarr.dev/)
 - [Sonarr](https://sonarr.tv/)
 - [Radarr](https://radarr.video/)
