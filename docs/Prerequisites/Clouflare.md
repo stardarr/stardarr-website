@@ -20,6 +20,14 @@ Cloudflare will provide two nameservers for you to take back to your domain regi
 
 You will need to update the nameservers on your domain name with these values.
 
+## Add explicit or wildcard subdomain
+
+Add CNAME record to your domain with a name of `*` and yourdomain.com as the content.
+
+This will create a wildcard for any subdomain to be forwarded on to your server's IP.
+
+If you prefer, you can make explicit subdomains by typing their name instead of `*`.
+
 ## SSL/TLS Settings
 
 Select **SSL/TLS** from the sidebar, and in the **Overview** set the mode to **Full (strict)**
