@@ -6,6 +6,7 @@ sidebar_position: 2
 
 | Variable         | Value                     | Description                                                    |
 | ---------------- | ------------------------- | -------------------------------------------------------------- |
+| DOMAIN           | overseerr.domain.com      | The domain or subdomain to access your overseerr instance      |
 | CONFIG_DIRECTORY | /path/to/overseerr/config | The path to your overseerr config                              |
 | TZ               | Etc/UTC                   | The timezone the service will use                              |
 | PUID             | 1000                      | User ID - Don't change this unless you know what you're doing  |
