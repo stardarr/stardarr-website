@@ -19,5 +19,5 @@ Follow the instructions [here](https://docs.docker.com/engine/install/) to insta
 Add your user to the docker group.
 
 ```
-sudo usermod -aG docker <your-username>
+sudo usermod -aG docker $USER
 ```
